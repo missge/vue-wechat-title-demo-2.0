@@ -1,0 +1,4 @@
+npm install vue-wechat-title --save---用于微信的title变化
+npm run dev
+npm install
+npm run build
